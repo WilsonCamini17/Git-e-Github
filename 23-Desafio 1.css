@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+}
+
+header {
+    margin: 47px 0px 0px 42px;
+
+}
+
+.header {
+    margin-left: 36px;
+    cursor: pointer;
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.88px;
+    word-wrap: break-word
+}
+
+.header:active {
+    opacity: 0.5;
+}
+
+button {
+    margin-left: 32px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    background: #6FBF44;
+    border-radius: 6px;
+    border: 1px #4CB538 solid;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+}
+
+button:active {
+    opacity: 0.8;
+}
+
+img {
+    margin: 163px 84px 0px 121px;
+}
+
+h1 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    text-align: left;
+    width: 582px;
+    color: #161A49;
+    letter-spacing: 0.60px;
+    word-wrap: break-word;
+}
+
+p {
+    margin: 47px 0px 55px 0px;
+    width: 493px;
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.50px;
+    word-wrap: break-word;
+}
+
+a {
+    width: 112px;
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    cursor: pointer;
+}
+a:active {
+    opacity: 0.5;
+}
+@media screen and (max-width: 900px) and (orientation:Portrait){
+    main{
+        display: block;
+    }
+    .header{
+        display: none;
+    }
+    button{
+        margin: 0px 25px 0px 304px;
+        width: 91px;
+    }
+    h1{
+        width: auto; 
+        text-align: center; 
+        color: #161A49; 
+        font-size: 30px;   
+        line-height: 30px; 
+        letter-spacing: 0.60px; 
+        word-wrap: break-word;
+    }
+    p{
+         width: auto; 
+         text-align: center; 
+         color: #4B505A; 
+         font-size: 18px;  
+         line-height: 33px; 
+         letter-spacing: 0.50px;
+         word-wrap: break-word;
+    }
+    a{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    img{
+        width: 312px;
+        position: relative;
+        margin-top: 490px;
+    }
+    selection{
+        margin-top: 76px;
+        position: absolute;
+        margin-left: -517px;
+    }
+}
+main {
+    display: inline-block;
+}
+
+selection {
+    display: inline-block;
+}
