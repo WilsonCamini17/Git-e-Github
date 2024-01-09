@@ -94,11 +94,16 @@ img {
 }
 
 @media screen and (max-width:900px) and (orientation:portrait) {
+    .space{
+        width: 100vw;
+        height: 100vh;
+    }
     .divleft {
         display: block;
         height: auto;
-        width: 100vw;
-        margin: 58px 54px 47px 0px;
+        width: 100%;
+        margin: 58px auto 47px auto;
+        
 
     }
 
@@ -108,7 +113,7 @@ img {
         letter-spacing: 0px;
         text-align: center;
         width: auto;
-        margin: 58px 54px 0px 53px;
+        margin: 0px 54px 0px 53px;
     }
 
     p {
@@ -127,18 +132,21 @@ img {
     }
     .divright {
         display: block;
+        width: 100%;
+        position: absolute;
+        padding: 40px;
         height: auto;
-        width: 100vw;
-        position: static;
-        margin: 0px;
-
     }
 
     img {
         width: 271px;
         position: static;
-        
-        margin: 46px 50px 46px 50px;
+        margin: 46px 0px 0px 0px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 322px;
+        padding: 40px;
     }
 
     header {
