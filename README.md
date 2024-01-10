@@ -1,6 +1,6 @@
 <h1>Meus Projetos Pessoais</h1>
 <br>
-<p>Esses Projetos foram aprendidos no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>, esses projetos são responsivos e utilizam as seguintes tecnologias:</p>
+<p>Esses Projetos foram aprendidos no curso <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>, esses projetos são responsivos e utilizam as seguintes tecnologias:</p>
 <p> - HTML </p>
 <p> - CSS </p>
 <h2>Wide Coverage</h2>
