@@ -26,7 +26,7 @@
 
 <br>
 <h2>Mobile Mode</h2>
-<img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/mobile.shopping.png?raw=true" alt="imageproject"/>
+<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/0e2b0a874978c428b6f1c5f2e5f169b7db716860/22-Shopping%20.css"><img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/mobile.shopping.png?raw=true" alt="imageproject"/></a>
 
 
 
