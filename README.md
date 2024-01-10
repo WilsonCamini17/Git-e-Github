@@ -4,7 +4,7 @@
 <p> - HTML </p>
 <p> - CSS </p>
 <h2>Wide Coverage</h2>
-<img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/Desktop%20Wide.png?raw=true" alt="imageproject"/><a href="https://github.com/WilsonCamini17/Git-e-Github/blob/42a0a368b7b615bd50d2191d367f0573d99d7a0c/23-Coverage%20Responsive.html" target="_blank"></a>
+<img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/Desktop%20Wide.png?raw=true" alt="imageproject"<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/42a0a368b7b615bd50d2191d367f0573d99d7a0c/23-Coverage%20Responsive.html" target="_blank"></a>
 <h2>Mobile Mode</h2>
 <img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/Mobile%20Wide.png?raw=true" alt="imageproject"/>
 <h2>We Care</h2>
