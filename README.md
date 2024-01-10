@@ -14,7 +14,9 @@
 
 <br>
 <h2>We Care</h2>
-<img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/We%20care.desktop.png?raw=true" alt="imageproject"/>
+<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/7c5fe1b6ab3030a789c7e29b349e33f1c9c22a7b/24-We%20care%20responsive.html"><img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/We%20care.desktop.png?raw=true" alt="imageproject"/></a>
+
+<br>
 <h2>Mobile Mode</h2>
 <img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/We%20care.Mobile.png?raw=true" alt="imageproject"/>
 <h2>Shopping</h2>
