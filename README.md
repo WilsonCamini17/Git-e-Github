@@ -22,7 +22,9 @@
 
 <br>
 <h2>Shopping</h2>
-<img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/desktop.shopping.png?raw=true" alt="imageproject"/>
+<a href="https://github.com/WilsonCamini17/Git-e-Github/blob/de387f5da98add11980440cacfd7a56761d8da61/22-Shopping%20.html"><img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/desktop.shopping.png?raw=true" alt="imageproject"/></a>
+
+<br>
 <h2>Mobile Mode</h2>
 <img src="https://github.com/WilsonCamini17/Git-e-Github/blob/main/assets/img/mobile.shopping.png?raw=true" alt="imageproject"/>
 
