@@ -1,6 +1,6 @@
-<h1>Meus Projetos Pessoais</h1>
+<h1>Shopping Mobile</h1>
 <br>
-<p>Esse Projeto foi aprendido no curso <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>, ele é responsivo e utiliza as seguintes tecnologias:</p>
+<p>Esse Projeto foi desenvolvido no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> com a finalidade de testar o conhecimento aprendido no módulo, ele é responsivo e utiliza as seguintes tecnologias:</p>
 
 <p> - HTML </p>
 <p> - CSS </p>
